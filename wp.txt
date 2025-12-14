@@ -1,0 +1,121 @@
+🏠 MAIN PAGE — Overview
+Path: /overview/README
+What is Zyntra?
+Zyntra is a next-generation decentralized perpetual exchange designed to merge CEX-level performance with DeFi transparency. It allows users to trade perpetual contracts with high leverage, using a variety of cryptocurrencies as collateral. Zyntra is built for traders who want secure, fast, and capital-efficient solutions for trading and staking.
+Introduction & Vision
+Zyntra’s vision is to build an ecosystem that provides innovative financial tools for everyone, from retail traders to institutions. We aim to empower our users by offering a secure and flexible platform where they can engage in high-leverage trading, staking, and participate in governance via the ZYN token. The platform will also soon launch an NFT marketplace that integrates with the broader trading experience.
+Our goal is to help users make better decisions and maximize capital efficiency without compromising on security or user control.
+Key Design Goals
+	•	Capital Efficiency  Zyntra ensures that users can trade and stake with minimal collateral requirements, allowing them to maximize their trading positions. 
+	•	Professional Trading Tools  The platform provides advanced risk management options, margin trading, and order types to meet the needs of both beginner and professional traders. 
+	•	Composability  Zyntra integrates with other decentralized platforms, providing users with seamless access to additional liquidity and trading features. 
+	•	Fair Incentives  Staking ZYN tokens allows users to earn rewards, govern the platform, and participate in decisions that affect the future of the ecosystem. 
+Why Zyntra?
+Zyntra is built for traders who seek high performance, low trading costs, and decentralized financial tools. Here's why Zyntra stands out from other platforms:
+	•	Decentralized and Transparent  Unlike centralized exchanges, Zyntra runs on blockchain technology, ensuring complete transparency and security for all trades. Every trade, every position is verified and recorded on-chain, providing users with confidence in the integrity of the system. 
+	•	High Leverage with Risk Management  Zyntra allows users to trade up to 100x leverage, while also providing real-time risk management tools. Automatic liquidation and funding rate management ensure that traders' positions are secured and margin calls are minimized. 
+	•	Multi-Asset Margin Trading  Zyntra supports multi-asset mode, where users can use various cryptocurrencies, such as BTC, ETH, and USDT, as margin for trading. This flexibility allows for greater diversity in positions without needing to move assets between multiple wallets. 
+	•	Low Fees & High Liquidity  With 0.01% maker fees and 0.035% taker fees, Zyntra offers some of the lowest fees in the industry. Additionally, the liquidity provided by users and the cross-chain trading mechanism ensures deep market depth, reducing slippage and improving trade execution. 
+	•	Governance and Staking  Zyntra is community-driven, where ZYN token holders participate in governance decisions and earn rewards by staking their tokens. This ensures that users have a direct impact on the platform’s evolution and sustainability. 
+	•	NFT Marketplace (Coming Soon)  Zyntra will soon launch an NFT marketplace, enabling users to trade NFTs that represent trading achievements or unique platform access. This feature integrates NFTs into the platform, making it a one-stop hub for both trading and NFT collectibles.  
+🧩 MAIN PAGE — Zyntra Pro (Perpetuals)
+Path: /product/perpetual
+
+What is Zyntra Pro?
+Zyntra Pro is a decentralized perpetual contract trading platform designed for both retail and professional traders. Combining high-leverage trading with DeFi transparency, Zyntra Pro allows users to trade a variety of perpetual contracts with low fees, advanced margin options, and risk management tools.
+In addition to perpetual contracts, Zyntra Pro integrates features such as staking rewards and an NFT platform that will launch soon. These features allow users to engage more deeply with the platform, not only through trading but also through community involvement and reward systems.
+
+Key Features of Zyntra Pro:
+	•	Multi-Asset Mode  Trade using various cryptocurrencies as margin, including BTC, ETH, USDT, and more. This allows users to maximize their capital efficiency by trading with a wide range of assets across different markets. 
+	•	Lower-than-CEX Fees  Zyntra offers 0.01% maker fees and 0.035% taker fees, making it highly competitive compared to centralized exchanges. 
+	•	Staking Rewards  Stake ZYN tokens to earn rewards and participate in the governance of the platform. 
+	•	NFT Platform (Coming Soon)  The NFT marketplace will allow users to buy, sell, and trade NFTs that represent trading achievements and other exclusive features. 
+	•	Advanced Risk Management  Zyntra Pro provides real-time liquidation management, ensuring users' positions are secured. Automated funding rates help balance liquidity, reducing the chance of unwanted liquidations. 
+
+
+
+
+the traders to tailor their margin trading strategy according to the assets they hold in their portfolio, rather than being limited to using one specific cryptocurrency for collateral.
+
+Quantitative Analysis Tools
+Path: /product/perpetual/advanced#quantitative-analyses
+The Zyntra Pro platform enables users to take advantage of cutting-edge quantitative trading analysis tools. In addition to providing basic price-charting capabilities, Zyntra Pro has advanced tools available for traders to use to identify potential trading opportunities based upon extensive market data.
+
+Automated Trading System
+Path: /product/perpetual/advanced#automated-trading-system
+Automated trading includes the use of a computer program to execute your trades. The Zyntra Pro platform supports the creation of your automated trading systems, and will allow you to test and optimize your algorithms with a real-time environment before deploying them live.
+
+Integrated Broker Support
+Path: /product/perpetual/advanced#integrated-broker-support
+Through Zyntra Pro you can connect with and combine the strengths of multiple brokers into one seamless trading platform. By enabling a trader to choose from the type of broker that best meets their needs, along with other valuable features such as integrated market data and analysis tools, Zyntra Pro gives the trader the flexibility and choices needed to trade successfully.
+
+
+
+
+Here are the negative aspects of these five features and how they can be remedied. Here are the positive aspects of each of these features and how they can be further developed:
+
+
+
+# Margin Trading Strategies
+
+
+Mechanics of Margin Trading
+
+
+The first aspect is the trader's ability to customize the margin trading strategy. A trader will have a wide variety of cryptocurrencies available in their portfolio, so there is a need for a system to allow a trader to customize their margin strategy.
+
+Instead of a single cryptocurrency that can be used for collateral, a trader will have many assets that can be used as collateral. A margin trading strategy should therefore take advantage of the full range of assets available in a trader's portfolio.
+
+
+Tools for Quantitative Analysis
+
+
+Path: /product/perpetual/advanced#quantitative-analyses
+
+
+Zyntra Pro provides advanced tools that traders use for quantitative analysis of the financial markets, as well as the analytical tools needed to analyze the price data. Traders can conduct their own quantitative analysis and/or use the quantitative analysis tools provided by Zyntra Pro to identify potential trading opportunities. Zyntra Pro helps traders develop advanced analytical trading strategies using market data.
+
+
+Automated Trading Systems
+
+
+Path: /product/perpetual/advanced#automated-trading-systems
+
+
+Automated trading is the use of a trading robot that executes trades based on a trader's directives. The Zyntra Pro platform allows users to create their own automated trading systems and then test and optimize their algorithms in a live trading environment.
+
+
+Integrated Broker Support
+
+
+Path: /Product/The Perpetual/Advanced#integrated-broker-support
+
+
+Zyntra Pro allows a trader to connect multiple brokers and create a single unified trading platform by combining the advantages of different brokers. This flexibility allows traders to select the broker that best fits their trading needs as well as providing other benefits including combined market data and analytical tools provided by multiple brokers.
+
+
+
+
+
+
+4. 💰 Token Economics on Main Page
+Path: /tokenomics/README
+
+ZYN Token Overview
+Path: /tokenomics/README
+The ZYN token is the primary utility token for Zyntra's platform and plays a key role in its governance, staking, transaction fees and rewards. Holders of ZYN tokens are able to participate in the governance of the Zyntra platform through voting options on proposals, receive staking rewards and part of Zyntra's revenue sharing.
+
+–Ticker would be referred to as $ZYN.
+–The total supply ZYN is 1 billion.
+–ZYN has utility in different aspects:
+-Governance - Anyone holding ZYN will have an equal vote on proposals to determine the future direction of Zyntra's platform.
+-Staking - Users can stake ZYN to earn rewards as well as to be a part of Zyntra's governance.
+-Transaction Fees - Users will be able to pay transaction fees from ZYN tokens to trade or access different features of the Zyntra platform.
+
+Distribution and Allocation
+Path: /tokenomics/distribution
+The total supply of ZYN tokens will be capped at 1 billion tokens with the following distribution:
+-Community & Ecosystem - 40% of ZYN tokens will be used to reward, provide liquidity and help grow the community.
+-Team & Advisors - 20% of ZYN tokens will be allocated to the team and advisors. Tokens will be vested over a period of three years to ensure that they are committed for the long term.
+-Partnerships & Strategic Investments - 15% of ZYN tokens will be used for strategic partnerships and ecosystem growth as well as liquidity providers.
+-Staking & Rewards - 25% of ZYN tokens will be used for staking rewards, liquidity farming, and governance.
