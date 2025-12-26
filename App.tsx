@@ -132,8 +132,8 @@ const App: React.FC = () => {
           )}
         </main>
 
-        {currentView !== 'trade' && <Footer />}
-        {currentView !== 'trade' && <AIAssistant />}
+        <Footer />
+        <AIAssistant />
       </div>
     </div>
   );
